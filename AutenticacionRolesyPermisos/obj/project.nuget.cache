@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H10ID2G0qYX/faWYAm4/wLwMpDJrhA5z6HkGdJTDxDCKMBA831MSfxKxeM5UCUwYBLb5iboip3JFwfZewRzd6g==",
+  "dgSpecHash": "ivlYWg2Xbu6AjXN6weaHwUDDjEZrU/nWMMVZKVhrZBPUkKj59MBTCDsyhY7Tyq8o24/jGeCOeOyoqQtQ1iGX1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ander\\Desktop\\Desarrollo\\ASPXCRUDImportante\\AutenticacionRolesyPermisos\\AutenticacionRolesyPermisos\\AutenticacionRolesyPermisos.csproj",
+  "projectFilePath": "C:\\Users\\ander\\Desktop\\Desarrollo\\AutenticacionRolesyPermisos\\AutenticacionRolesyPermisos\\AutenticacionRolesyPermisos\\AutenticacionRolesyPermisos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ander\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\ander\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
