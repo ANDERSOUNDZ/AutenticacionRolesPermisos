@@ -4,7 +4,7 @@
 }
 
 <!DOCTYPE html>
-
+@model Usuario
 <html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -15,14 +15,14 @@
 
     <div class="row mt-5">
         <div class="col-sm-4 offset-sm-4">
-            <form>
+            <form asp-controller="Acceso" asp-action="index" method="post">
               <div class="mb-3">
                 <label for="exampleInputEmail1" class="form-label">Email</label>
-                <input type="email" class="form-control">
+                <input type="email" class="form-control" asp-for="Correo">
               </div>
               <div class="mb-3">
                 <label for="exampleInputPassword1" class="form-label">Contrasena</label>
-                <input type="password" class="form-control">
+                    <input type="password" class="form-control" asp-for="Clave">
               </div>
               <button type="submit" class="btn btn-primary">Ingresar</button>
             </form>
